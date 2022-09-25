@@ -1,6 +1,15 @@
+
+
 # TodoAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+
+#Link of Video and Photo
+
+https://drive.google.com/drive/folders/13QhfIQyGea2ZYA4_PO_Pfc50DRMhopUs?usp=sharing
+
+#Link of website
+https://hazelle2511.github.io/todoapp_angular/
 
 ## Development server
 
