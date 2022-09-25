@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Doctors Appoinment",
+      "id": 1,
+      "day": "5th of May at 14",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "text": "Start of School",
+      "day": "26th of September at   8:30am",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "text": "Start working",
+      "day": "1st of October at 8:00am",
+      "complete": false
+    }
+  ]
+}

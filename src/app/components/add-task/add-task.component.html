@@ -1,0 +1,17 @@
+<form *ngIf="showAddTask" class="add-form "  (ngSubmit)="onSubmit()">
+    <div class="form-control">
+        <label for="text">Tache:</label>
+        <input type="text" name="text" [(ngModel)]="text" id="text" placeholder="Ajouter le tache"/>
+    </div>
+    <div class="form-control">
+        <label for="day"> Le Jour et L'Heure:</label>
+        <input type="text" name="day" [(ngModel)]="day" id="day" placeholder="Ajouter le jour et l'heure "/>
+    </div>
+    <div class="form-control form-control-check">
+        <label for="status">Terminer? </label>
+        <input type="checkbox" name="complete" [(ngModel)]="complete" id="complete"/>
+    </div>
+    {{text}}
+    <input type="submit" value="Enregistre le tache" class="btn btn-block"/>
+    
+</form>
